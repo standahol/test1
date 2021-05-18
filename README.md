@@ -1,1 +1,2 @@
 # Testovani Gitu
+cvicne readme
